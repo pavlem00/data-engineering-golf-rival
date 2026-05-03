@@ -94,11 +94,6 @@ python3 main.py user-stats
 #### Map Stats
 python3 main.py map-stats <map-name>
 
-or
-
-python3 main.py map-stats <map-name> <date_from> <date_to>
-(Optional date filter)
-
 
 
 ## Project Structure
